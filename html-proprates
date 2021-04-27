@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property Rates in Navi Mumbai 2020-21</title>
+     <link rel="stylesheet" href="project1.css">
+</head>
+<body>
+    <div class="container">
+        <div class="mainheading">
+            <center> <h1 class="page header">Property Rates & Price Rise Trends in Navi Mumbai- 2020-21</h1></center>
+        </div>
+        <div class="nminfo">
+            <center> <h3>The latest price trend of Navi Mumbai provides a very good indication to the investors or end-users on the direction <br> where the property trend in Mumbai is moving. Identifying the correct price movement for properties in Navi Mumbai is very important to investors so that they can gain the maximum benefit by buying/ selling the real estate assets at the right time. </h3></center>
+        </div> <hr>
+        <div class="nmimage">
+           <center> <img src="/freepressjournal_2020-11_0a5c6021-1d8a-4ee9-9650-202540d7c141_navi_mumbai.jpg" alt="Navi Mumbai"></center>
+        </div>
+        <hr>
+            <div class="arealoc"> 
+            <h2 >Navi Mumbai North</h2>
+            </div>
+            <section class="northimg"><center>
+                <img src="/airloi.jfif" alt="airoli">
+                <img src="/ghansoli.jfif" alt="ghansoli">
+                <img src="/rabale.jfif" alt="rabale">
+                </center>
+            </section>
+            <section class="table1">
+                <table border="5" width="100" height="200">
+                   
+                     <tr style="height: 50px;">
+                        
+                        <th><b><h3>Locality</b></h3></bLocality></th>
+                        
+                        <th colspan="3"><h3> <b>Buy Rates </b></h3> </th>
+                        
+                        
+                     </tr>
+                     
+                    <tr>
+                        <tr style="height: 50px;">
+                        <th>&nbsp;</th>
+                        <th> <ins>Price Range per sq.ft</ins></th>
+                        <th><ins>Avg. Price per sq.ft</ins></th>
+                        <th><ins>Price Rise</ins></th></tr>
+                    </tr>
+                    <tr>
+                        <th> <h3>Airoli</h3></th>
+                        <th> &#8377 4,481 - 63,810 / sqft</th>
+                        <th> &#8377  31,021 / sqft</th>
+                        <th>&Uparrow;40.4</th>
+                    </tr>
+                    <tr>
+                        <th><h3>Ghansoli</h3></th>
+                        <th> &#8377 2,429 - 37,860 / sqft</th>
+                        <th>&#8377 27,725 /sqft </th> 
+                       <th>&Uparrow;61.25</th>
+                    </tr>
+                    <tr>
+                      <th><h3>Rabale</h3></th>
+                      <th> &#8377 2,100 - 34,860 / sqft</th>
+                       <th>&#8377 24,725 /sqft </th> 
+                       <th>&Uparrow;49.25</th>
+                   </tr>
+                   <tr>
+                    <th><h3>Kopar Khairane</h3></th>
+                    <th> &#8377 3,100 - 41,860 / sqft</th>
+                     <th>&#8377 30,725 /sqft </th> 
+                     <th>&Uparrow;64.25</th>
+                 </tr>
+                </table>
+            </section>
+            <div class="arealoc"> 
+                <h2 >Navi Mumbai South</h2>
+                </div>
+                <section class="northimg"><center>
+                    <img src="/uran.jfif" alt="uran">
+                    <img src="/ulwe.jfif" alt="ulwe">
+                    <img src="/koproli.jfif" alt="koproli">
+                    </center>
+                </section>
+                <section class="table1">
+                <table border="5" width="100" height="200">
+                   
+                    <tr style="height: 50px;">
+                       
+                       <th><b><h3>Locality</b></h3></th>
+                       
+                       <th colspan="3"><h3> <b>Buy Rates </b></h3> </th>
+                       
+                       
+                    </tr>
+                    
+                   <tr>
+                       <tr style="height: 50px;">
+                       <th>&nbsp;</th>
+                       <th> <ins>Price Range per sq.ft</ins></th>
+                       <th><ins>Avg. Price per sq.ft</ins></th>
+                       <th><ins>Price Rise</ins></th></tr>
+                   </tr>
+                        <tr>
+                            <th> <h3>Uran</h3></th>
+                            <th> &#8377 4,393 - 7,619/ sqft</th>
+                            <th> &#8377  5,793/ sqft</th>
+                            <th>&Uparrow;6.4</th>
+                        </tr>
+                        <tr>
+                            <th><h3>Ulwe</h3></th>
+                            <th> &#8377 2,429 - 7,860 / sqft</th>
+                            <th>&#8377 6,725 /sqft </th> 
+                           <th>&Uparrow;3.25</th>
+                        </tr>
+                        <tr>
+                          <th><h3>Khar Kopar</h3></th>
+                          <th> &#8377 2,100 - 14,860 / sqft</th>
+                           <th>&#8377 9,725 /sqft </th> 
+                           <th>&Uparrow;9.25</th>
+                       </tr>
+                       <tr>
+                        <th><h3>Koproli</h3></th>
+                        <th> &#8377 3,100 - 11,860 / sqft</th>
+                         <th>&#8377 4,725 /sqft </th> 
+                         <th>&Uparrow;4.25</th>
+                     </tr>
+                    </table>
+                </section>
+                    
+                    <div class="arealoc"> 
+                        <h2 >Navi Mumbai Center</h2>
+                        </div>
+                        <section class="northimg"><center>
+                            <img src="/kharghar.jfif" alt="kharghar">
+                            <img src="/nerul.jfif" alt="nerul">
+                            <img src="/vashi.jfif" alt="vashi">
+                            <img src="/panvel.jfif" alt="panvel">
+                            </center>
+                        </section>
+
+                        <section class="table1">
+                            <table border="5" width="100" height="200">
+                   
+                                <tr style="height: 50px;">
+                                   
+                                   <th><b><h3>Locality</b></h3></th>
+                                   
+                                   <th colspan="3"><h3> <b>Buy Rates </b></h3> </th>
+                                   
+                                   
+                                </tr>
+                                
+                               <tr>
+                                   <tr style="height: 50px;">
+                                   <th>&nbsp;</th>
+                                   <th> <ins>Price Range per sq.ft</ins></th>
+                                   <th><ins>Avg. Price per sq.ft</ins></th>
+                                   <th><ins>Price Rise</ins></th></tr>
+                               </tr>
+                                <tr>
+                                    <th> <h3>Kharghar</h3></th>
+                                    <th> &#8377 6,393 - 1,09,619/ sqft</th>
+                                    <th> &#8377  59,793/ sqft</th>
+                                    <th>&Downarrow;19.4</th>
+                                </tr>
+                                <tr>
+                                    <th><h3>Nerul</h3></th>
+                                    <th> &#8377 2,429 - 40,860 / sqft</th>
+                                    <th>&#8377 26,725 /sqft </th> 
+                                   <th>&Uparrow;13.25</th>
+                                </tr>
+                                <tr>
+                                  <th><h3>Vashi</h3></th>
+                                  <th> &#8377 2,100 - 1,14,860 / sqft</th>
+                                   <th>&#8377 60,725 /sqft </th> 
+                                   <th>&Uparrow;22.25</th>
+                               </tr>
+                               <tr>
+                                <th><h3>Belapur</h3></th>
+                                <th> &#8377 3,100 - 59,860 / sqft</th>
+                                 <th>&#8377 31,725 /sqft </th> 
+                                 <th>&Uparrow;19.25</th>
+                             </tr>
+                             <tr>
+                                <th><h3>Panvel</h3></th>
+                                <th> &#8377 3,100 - 49,860 / sqft</th>
+                                 <th>&#8377 25,725 /sqft </th> 
+                                 <th>&Uparrow;29.25</th>
+                             </tr>
+                            </table>
+                        </section>
+                        <hr >
+                        
+                        <section class="aboutus">
+                          <h2 class="section-header"> <center>About us</center></h2>
+                       <center> <h5>  Launched in 2021, We provide you
+                          online
+                           Property marketplace to know prices of
+                           residential and commercial properties.
+                            Adjudged as one of the most  
+                           preferred real estate portal in Maharashtra by various
+                            independent surveys,
+                            This site offers a one-stop destination for all
+                             Property needs. </center></h5>
+                        </section>
+                        <hr >    
+                        <section class="contactus">
+                            <h2 class="section-header"> <center>Connect with us</h2></center>
+                            <p class="mb-0">
+                             <center>  <h5>Reach us via
+                              <a href="mailto:bhushanforu74@gmail.com" class="contact-link">Email</a>
+                                   Thank you. </center> </h5>
+                            </p>
+                  
+                          </section>                         
+
+                          <footer>
+                            <p class="text-white tm-footer-text">
+                              Copyright &copy; 2021 Bhushan Shelke
+                              . Design:
+                              <a href="mailto:bhushanforu74@gmail.com" class="footer-link">Bhushan</a>
+                            </p>
+                          </footer> 
+
+        
+    </div>
+    
+</body>
+</html>
